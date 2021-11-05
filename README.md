@@ -14,4 +14,4 @@ https://github.com/archana-coding21/Machine_Learning_Smart_Health_Project1/blob/
 Further Analysis was done on the extracted features list provided in an excel format. Python code has been used for the same and various plots have been plotted to understand the distribution of each feature among the Patients and the Healthy people. Based on the distribution of each feature, the Inferential Statistics has been performed using the T-Test and the Mann Whitney U test on those features.
 
 This Analtysis is provided in the link: 
-
+https://github.com/archana-coding21/Machine_Learning_Smart_Health_Project1/blob/main/Statistical_Analysis_on_Extracted_Features.ipynb
